@@ -20,8 +20,14 @@ Article: [The Sounding](https://ryansloot.substack.com), November 11, 2026.
 - All figures in the article are not seasonally adjusted 12-month changes unless stated.
 - U.S. all items CUUR0000SA0: 3.74% (336.940 / 324.800). Shelter CUUR0000SAH1: 3.22%. Energy CUUR0000SA0E: 20.45%. All items less food and energy CUUR0000SA0L1E: 2.56%.
 - Metro shelter CUUR[area]SAH1, September 2026 vs September 2025.
+- September 2026 shelter, 12-month change: Houston -0.15%, Tampa 0.24%, Atlanta 0.90%, Dallas 1.27%; Urban Alaska 4.92%, St. Louis 4.73%, New York 4.50%, Urban Hawaii 4.17%, Washington 4.10%, Boston 4.03%, Philadelphia 4.02%.
+- Houston is a metro area of 7.9 million people (Census Vintage 2025, 2025 estimate).
 - Houston, all items less food and energy, CUURS37BSA0L1E: 285.868 (August 2026) vs 286.389 (August 2025).
 - September 2022 shelter 12-month changes: Houston 7.37% (CUURS37BSAH1), New York 3.45% (CUURS12ASAH1); BLS API, pulled 2026-11-09.
+- Other September 2022 shelter 12-month changes: Phoenix 19.47%, Tampa 13.93%, Miami 13.24%, Atlanta 12.87%, San Francisco 2.78%.
+- Owners' equivalent rent, September 2026, 12-month change: New York 5.12%, St. Louis 5.62%, Boston 4.41%, Philadelphia 4.56%, Chicago 4.04%, San Francisco 2.21%.
+- Noise and narrowing: Philadelphia shelter 6.54% (June 2026) and 2.72% (July). Dallas shelter -0.60% (March 2026) and +1.27% (September). The spread in headline inflation across metros was 4.64 points in June and 3.96 in the latest reading.
+- Energy 12-month changes ranged from +9.44% (Tampa) to +26.36% (Washington).
 - No October 2025 index exists for the metro shelter series (confirmed via the BLS API, 2026-11-09), so no October 2026 12-month metro changes are published.
 - Metro all-items indexes are bimonthly for 20 areas, so headline reference months are August or September 2026. Shelter, rent and owners' equivalent rent are monthly for all 23 areas. Energy is monthly for 22 (BLS discontinued Baltimore energy, CUURS35ESA0E, after May 2026).
 - The October 2025 carry-forward and April 2026 catch-up are described in the BLS [2025 shutdown CPI FAQ](https://www.bls.gov/cpi/additional-resources/2025-federal-government-shutdown-impact-cpi-faq.htm). The size of the effect on December 2026 12-month changes is my estimate, not BLS's.
@@ -41,6 +47,7 @@ BLS API v2, pulled 2026-11-10, not seasonally adjusted. No October 2025 index ex
 
 - Contributions use the BLS December 2025 relative-importance tables (U.S.: shelter 35.625, energy 6.383) and metro weights from the same release. National contributions of about 1.31 points (energy) and 1.15 points (shelter) are approximate because weights drift.
 - Variance shares = covariance of each contribution with headline inflation, divided by the variance of headline inflation across metros.
+- Across the 21 metropolitan areas, shelter accounts for 49.7% of the cross-metro variance in headline inflation, energy about 5-6% and everything else (food, goods and non-shelter services) about 44%. Summed contributions rebuild each metro's published headline to within about 0.06 points.
 - Energy and "other" shares were computed with Baltimore's energy imputed from regional August changes (5.0-6.5% and 43.8-45.2%) or with Baltimore dropped (5.6% and 41.2%; shelter 53.2%).
 
 ## Building permits and population (Census)
@@ -49,13 +56,21 @@ BLS API v2, pulled 2026-11-10, not seasonally adjusted. No October 2025 index ex
 - The October year-to-date file had not been posted as of 2026-11-11. September permits are preliminary and will be revised.
 - Per-1,000 rates use 2020 population. With 2025 population the leaders are Phoenix 43.9, Houston 43.6 and Dallas 42.8; correlations move by 0.03 or less.
 - Population: Census Vintage 2025 CBSA estimates.
-- Rental vacancy: Census Housing Vacancy Survey 2026, Table 4, average of 26Q1-26Q3.
+- Rental vacancy: Census Housing Vacancy Survey 2026, Table 4, average of 26Q1-26Q3. Its metro estimates carry margins of error of one to five points.
+- Multifamily permits (units in buildings with five or more units), January-September 2026 vs 2025: Houston, Dallas, Phoenix, Atlanta, Tampa and Denver combined 59,506 to 51,934 (-12.7%); Houston alone -35.2%; Atlanta +14.1%. Philadelphia, New York, Boston, Chicago and St. Louis combined 34,026 to 49,407 (+45.2%), of which New York supplies 11,539 of the 15,381-unit increase; Chicago -17.7%.
 - BLS CPI areas are mapped to Census CBSAs. Urban Hawaii and Urban Alaska are mapped to Honolulu and Anchorage, which is why the 21-metro results (excluding those two) are the primary ones.
 - Philadelphia: the full 10-year tax abatement applied to permits issued by December 31, 2021, stepping down thereafter (Philadelphia Inquirer, Blumgart and Briggs, December 7, 2022). The 2021 CBSA BPS file shows 25,427 units in buildings with five or more units.
 
 ## Correlations and per-capita figures (my arithmetic)
 
 - All correlations, partial correlations, per-capita and per-new-resident figures (Philadelphia about 1.03, Houston about 0.47 on 2021-2025 permits) are my arithmetic.
+- The "score" in the article is the Spearman rank correlation between 2021-2025 permits per 1,000 residents (2020 population) and September shelter 12-month changes across the 21 metros: +0.69 (2022), +0.39 (2023), -0.48 (2024), -0.48 (2025), -0.68 (2026); -0.69 averaging July-September 2026.
+- Permits per 1,000: Houston 48.0, Dallas 47.3, Phoenix 47.1 lead; Chicago 9.0, Detroit 9.1, San Francisco 9.7 trail.
+- Permits and population growth: rank correlation 0.89 across the 21. Population growth against shelter inflation: +0.70 (September 2022), -0.67 (September 2026).
+- Partial correlation of permits and shelter inflation, controlling for population growth: -0.47 for all 23 areas, -0.24 for the 21 (not statistically significant).
+- Permits against metro headline CPI: rank correlation -0.24, not statistically significant.
+- Vacancy: permits per resident correlate +0.57 with the 2026 rental vacancy rate; vacancy correlates -0.49 with September rent inflation.
+- Boundary differences between BLS and Census metro definitions move no correlation by more than 0.01.
 
 ## Forecast checks (my arithmetic)
 
@@ -70,6 +85,7 @@ The December 2026 forecast legs, checked against the October 2026 indexes for th
 ## Federal Reserve
 
 - FOMC statements of September 16 and October 28, 2026, federalreserve.gov, quoted verbatim.
+- September 16: target range for the federal funds rate raised a quarter point, to 3.75-4.00%; the statement said "Inflation remains elevated." October 28: held, with two dissents in favor of another hike.
 - The FOMC's 2% goal is defined on the PCE price index, not the CPI.
 
 ## Prior work cited
