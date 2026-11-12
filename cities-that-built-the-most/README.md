@@ -1,6 +1,6 @@
 # The Cities That Built the Most Now Have the Least Shelter Inflation: data notes
 
-Article: [The Sounding](https://ryansloot.substack.com), November 11, 2026.
+Article: [The Cities That Built the Most Now Have the Least Shelter Inflation](https://ryansloot.substack.com/p/the-cities-that-built-the-most-now), The Sounding, November 11, 2026.
 
 "My arithmetic" marks anything I computed. All CPI figures are CPI-U, not seasonally adjusted.
 
@@ -64,7 +64,7 @@ BLS API v2, pulled 2026-11-10, not seasonally adjusted. No October 2025 index ex
 ## Correlations and per-capita figures (my arithmetic)
 
 - All correlations, partial correlations, per-capita and per-new-resident figures (Philadelphia about 1.03, Houston about 0.47 on 2021-2025 permits) are my arithmetic.
-- The "score" in the article is the Spearman rank correlation between 2021-2025 permits per 1,000 residents (2020 population) and September shelter 12-month changes across the 21 metros: +0.69 (2022), +0.39 (2023), -0.48 (2024), -0.48 (2025), -0.68 (2026); -0.69 averaging July-September 2026.
+- Spearman rank correlation between 2021-2025 permits per 1,000 residents (2020 population) and September shelter 12-month changes across the 21 metros: +0.69 (2022), +0.39 (2023), -0.48 (2024), -0.48 (2025), -0.68 (2026); -0.69 averaging July-September 2026.
 - Permits per 1,000: Houston 48.0, Dallas 47.3, Phoenix 47.1 lead; Chicago 9.0, Detroit 9.1, San Francisco 9.7 trail.
 - Permits and population growth: rank correlation 0.89 across the 21. Population growth against shelter inflation: +0.70 (September 2022), -0.67 (September 2026).
 - Partial correlation of permits and shelter inflation, controlling for population growth: -0.47 for all 23 areas, -0.24 for the 21 (not statistically significant).
