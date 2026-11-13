@@ -1,6 +1,6 @@
 # The Sounding: data notes
 
-Full sourcing for each article in [The Sounding](https://ryansloot.substack.com), Ryan Sloot's economics newsletter.
+Full sourcing for each article in [The Sounding](https://thesounding.substack.com), Ryan Sloot's economics newsletter.
 
 The rules:
 
