@@ -1,6 +1,6 @@
 # The Cities That Built the Most Now Have the Least Shelter Inflation: data notes
 
-Article: [The Cities That Built the Most Now Have the Least Shelter Inflation](https://ryansloot.substack.com/p/the-cities-that-built-the-most-now), The Sounding, November 11, 2026.
+Article: [The Cities That Built the Most Now Have the Least Shelter Inflation](https://thesounding.substack.com/p/the-cities-that-built-the-most-now), The Sounding, November 11, 2026.
 
 "My arithmetic" marks anything I computed. All CPI figures are CPI-U, not seasonally adjusted.
 
