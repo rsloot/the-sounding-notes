@@ -16,3 +16,4 @@ The rules:
 |---|---|---|
 | 2026-11-11 | The Cities That Built the Most Now Have the Least Shelter Inflation | [notes](cities-that-built-the-most/README.md) |
 | 2026-11-13 | Cheaper Car Insurance Is Flattering the Inflation Numbers | [notes](car-insurance-quarter-point/README.md) |
+| 2026-11-17 | Your Electric Bill Is the AI Boom's Backstop | [notes](ai-boom-backstop/README.md) |
