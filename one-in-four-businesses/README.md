@@ -1,6 +1,6 @@
 # Data notes: Only One in Four Businesses Uses AI. That's the Bull Case.
 
-Article: [The Sounding](https://thesounding.substack.com), November 23, 2026.
+Article: [The Sounding](https://thesounding.substack.com/p/only-one-in-four-businesses-uses), November 23, 2026.
 
 An opinion piece: the market spent the week of November 16-20 selling short-term news (the trees) while the government's own count of AI adoption (the forest) rose to a record. "My arithmetic" marks anything I computed. Figures were pulled November 20-23, 2026.
 
