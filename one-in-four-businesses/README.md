@@ -111,6 +111,7 @@ Standard errors in cycle 202623: 3.74 points for 250 or more, 0.88 points for 1 
 
 ## Other figures
 
+- Microsoft 10-K for fiscal 2026 (filed Jul 29, 2026), property and equipment useful lives: "servers and network equipment, two to six years."
 - International Federation of Robotics, World Robotics 2026 (Sep 24, 2026): China installed 354,000 industrial robots in 2025, 59% of global installations.
 - Epoch AI, "The plunging price of thought" (Emberson and Roodman, Sep 22, 2026): the price of a given level of performance has fallen "about 47% per quarter since 2023, or 13x per year." MIT FutureTech finds that the cost of running frontier models is rising, which the article notes.
 - National Conference of State Legislatures, "Does your state offer data center tax incentives" (Apr 9, 2026): 38 states offer them, and all waive sales taxes on essential data center equipment.
@@ -128,4 +129,4 @@ Standard errors in cycle 202623: 3.74 points for 250 or more, 0.88 points for 1 
 
 ## Corrections
 
-None since publication.
+- Nov 24, 2026: the article said the chips in Microsoft's capital spending "wear out in a few years and must be bought again". That was not sourced. It now says Microsoft depreciates them over six years or less and can slow the buying if demand changes (Hood, Jul 29, under Capacity quotes). Microsoft's 10-K for fiscal 2026 (filed Jul 29, 2026) depreciates servers and network equipment over two to six years. That is an accounting life, not a physical one.
