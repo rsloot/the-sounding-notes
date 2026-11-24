@@ -27,6 +27,7 @@ The piece is a thought experiment: it argues from a premise about a world where 
 ## Prior work credited
 
 - Michal S. Gal and Niva Elkin-Koren, "Algorithmic Consumers," *Harvard Journal of Law and Technology* 30:309 (2017). The aside on the social side of shopping: "How will they be affected by the loss of the social interactions that often accompany shopping? Such matters are beyond our expertise."
+- Rory Van Loo, "Digital Market Perfection," 117 *Mich. L. Rev.* 815 (2019). Hyperswitching and market volatility (abstract, p. 815); "a new type of bank run—one that is technologically coordinated rather than driven by panic" (p. 821); banks blocking the bots of financial apps such as NerdWallet (pp. 838-39). It cites Hirschman twice, both on exit and market concentration (nn. 149, 220), and makes no argument about voice or social norms.
 - Mark Bartholomew and Samuel I. Becher, "The End of Shopping," 68 *Wm. & Mary L. Rev.* 1 (2026).
 - Joshua Gans, Avi Goldfarb and Mara Lederman, "Exit, Tweets and Loyalty" (NBER Working Paper w23046), on Hirschman and platforms.
 - Digital Journal (October 29, 2026), on firms' own customer-service bots and voice.
